@@ -1,0 +1,5 @@
+policy_ref,state,status,renewal_window,expected_eligibility
+POL-DEMO-1001,Maple,Active,Inside,Review
+POL-DEMO-1002,Cedar,Cancelled,Inside,Not Eligible
+POL-DEMO-1003,Harbor,Active,Outside,Not Yet Eligible
+POL-DEMO-1004,Maple,Active,Inside,Review

@@ -1,0 +1,6 @@
+scenario_id,garaging_zip,vehicle_year,vehicle_make,vehicle_model,driver_dob,vehicles_count,safe_driver_eligible,expected_result
+HL-1001,00000,2021,Sampleton,Comet,1988-04-12,1,false,valid_quote
+HL-1002,00000,2020,Example Motors,Orbit,2035-01-01,1,false,invalid_driver_date
+HL-1003,11111,2022,DemoWorks,Harbor,1990-09-23,1,true,safe_driver_discount
+HL-1004,22222,2023,Fictional Auto,Daystar,1985-02-14,2,true,multi_vehicle_discount
+HL-1005,33333,2019,Imaginary Inc,Cloud,1992-07-08,1,false,missing_zip_if_blank

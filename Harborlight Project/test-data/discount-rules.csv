@@ -1,0 +1,3 @@
+rule_id,rule_name,eligibility,discount_percent,notes
+DISC-01,Safe driver,Sample record marked safe_driver_eligible=true,5,Invented demonstration value
+DISC-02,Multi vehicle,Two or more vehicles on the quote,7,Invented demonstration value

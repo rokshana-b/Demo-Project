@@ -1,0 +1,5 @@
+state_code,state_name,rule_set,role_name,permission
+MP,Maple,M-17,Underwriter,quote.create
+CD,Cedar,C-22,Underwriter,policy.issue
+HB,Harbor,H-08,Service Representative,policy.view
+MP,Maple,M-17,QA Analyst,test.execute
