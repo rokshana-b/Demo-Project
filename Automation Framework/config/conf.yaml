@@ -1,0 +1,11 @@
+project:
+  name: sample-project1
+  description: Fictional insurance quote demo
+
+environment:
+  base_url: "https://sample-project1.example.test"
+
+test:
+  browser: chromium
+  timeout_seconds: 30
+  data_file: "../test-data/quote-scenarios.csv"
